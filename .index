@@ -1,0 +1,45 @@
+---
+revision: 2013
+type: ruby
+sources:
+- Indexfile
+- Gemfile
+authors:
+- name: trans
+  email: transfire@gmail.com
+organizations: []
+requirements:
+- version: '>= 0'
+  name: rubytest-core
+conflicts: []
+alternatives: []
+resources:
+- type: home
+  uri: http://rubyworks.github.com/rubytest-tap
+  label: Homepage
+- type: code
+  uri: http://github.com/rubyworks/rubytest-tap
+  label: Source Code
+- type: mail
+  uri: http://groups.google.com/group/rubyworks-mailinglist
+  label: Mailing List
+repositories:
+- name: upstream
+  scm: git
+  uri: git@github.com:rubyworks/rubytest-summary.git
+categories: []
+copyrights:
+- holder: RubyWorks
+  year: '2011'
+  license: BSD-2-Clause
+customs: []
+paths:
+  lib:
+  - lib
+name: rubytest-tap
+title: Rubytest Tap Test Report Format
+version: 0.1.0
+summary: Tap and Tap-Y/J test report formats for Rubytest.
+description: This is a report format plugin for Rubytest.
+created: '2011-07-23'
+date: '2014-07-18'

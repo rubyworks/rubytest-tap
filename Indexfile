@@ -1,0 +1,32 @@
+---
+name:
+  rubytest-tap
+
+version: 
+  0.1.0
+
+title:
+  Rubytest Tap Test Report Format
+
+summary:
+  Tap and Tap-Y/J test report formats for Rubytest.
+
+description:
+  This is a report format plugin for Rubytest.
+
+resources:
+  home: http://rubyworks.github.com/rubytest-tap
+  code: http://github.com/rubyworks/rubytest-tap
+  mail: http://groups.google.com/group/rubyworks-mailinglist
+
+repositories:
+  upstream: git@github.com:rubyworks/rubytest-summary.git
+
+authors:
+  - trans <transfire@gmail.com>
+
+created: 2011-07-23
+
+copyrights:
+  - 2011 RubyWorks (BSD-2-Clause)
+
