@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "rubytest-core"
+gem "rubytest", ">= 0.8.0"
 

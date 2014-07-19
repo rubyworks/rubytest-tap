@@ -9,8 +9,8 @@ authors:
   email: transfire@gmail.com
 organizations: []
 requirements:
-- version: '>= 0'
-  name: rubytest-core
+- version: '>= 0.8.0'
+  name: rubytest
 conflicts: []
 alternatives: []
 resources:
